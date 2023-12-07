@@ -17,7 +17,9 @@ int b = int.Parse(bStr);
 if (a == b * b) {
     Console.WriteLine("True");
 }
-else { Console.WriteLine("False");}
+else { Console.WriteLine("False");} 
+
+
 
 
 
